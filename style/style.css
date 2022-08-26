@@ -445,6 +445,9 @@ section {
   justify-content: center;
   font-size: 1.3rem;
 }
+.contact-content-con .btn-text {
+  white-space: nowrap;
+}
 
 /*Independed components*/
 .btn-con {
